@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "omnisharp.organizeImportsOnFormat": true,
+    "files.exclude": {
+        "**/bin": true,
+        "**/obj": true
+    }
+}
